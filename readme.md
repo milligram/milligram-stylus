@@ -2,11 +2,11 @@
 
 | A minimalist CSS framework.
 
-[![Build Status](https://travis-ci.org/milligram/milligram.svg?branch=master)](https://travis-ci.org/milligram/milligram)
-[![GitHub version](https://badge.fury.io/gh/milligram%2Fmilligram.svg)](https://badge.fury.io/gh/milligram%2Fmilligram)
-[![Bower version](https://badge.fury.io/bo/milligram.svg)](https://badge.fury.io/bo/milligram)
-[![npm version](https://badge.fury.io/js/milligram.svg)](http://badge.fury.io/js/milligram)
-[![Dependencies Status](https://david-dm.org/milligram/milligram.svg)](https://travis-ci.org/milligram/milligram)
+[![Build Status](https://travis-ci.org/milligram/milligram-stylus.svg?branch=master)](https://travis-ci.org/milligram/milligram-stylus)
+[![GitHub version](https://badge.fury.io/gh/milligram%2Fmilligram-stylus.svg)](https://badge.fury.io/gh/milligram%2Fmilligram-stylus)
+[![Bower version](https://badge.fury.io/bo/milligram-stylus.svg)](https://badge.fury.io/bo/milligram-stylus)
+[![npm version](https://badge.fury.io/js/milligram-stylus.svg)](http://badge.fury.io/js/milligram-stylus)
+[![Dependencies Status](https://david-dm.org/milligram/milligram-stylus.svg)](https://travis-ci.org/milligram/milligram-stylus)
 
 
 ## Why it's awesome?
@@ -19,13 +19,13 @@ Milligram provides a minimal setup of styles for a fast and clean starting point
 **Install with Bower**
 
 ```sh
-$ bower install milligram
+$ bower install milligram-stylus
 ```
 
 **Install with npm**
 
 ```sh
-$ npm install milligram
+$ npm install milligram-stylus
 ```
 
 
