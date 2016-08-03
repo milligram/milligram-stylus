@@ -4,10 +4,10 @@
 
 > A minimalist CSS framework on Stylus version.
 
-[![Build Status](https://travis-ci.org/milligram/milligram-styl.svg?branch=master)](https://travis-ci.org/milligram/milligram-styl)
-[![Dependencies Status](https://david-dm.org/milligram/milligram-styl.svg)](https://travis-ci.org/milligram/milligram-styl)
-[![npm version](https://badge.fury.io/js/milligram-styl.svg)](https://badge.fury.io/js/milligram-styl)
-[![Bower version](https://badge.fury.io/bo/milligram-styl.svg)](https://badge.fury.io/bo/milligram-styl)
+[![Build Status](https://travis-ci.org/milligram/milligram-stylus.svg?branch=master)](https://travis-ci.org/milligram/milligram-stylus)
+[![Dependencies Status](https://david-dm.org/milligram/milligram-stylus.svg)](https://travis-ci.org/milligram/milligram-stylus)
+[![npm version](https://badge.fury.io/js/milligram-stylus.svg)](https://badge.fury.io/js/milligram-stylus)
+[![Bower version](https://badge.fury.io/bo/milligram-stylus.svg)](https://badge.fury.io/bo/milligram-stylus)
 [![Gitter chat](https://img.shields.io/badge/gitter-join_the_chat-4cc61e.svg)](https://gitter.im/milligram/milligram)
 
 
@@ -21,13 +21,13 @@ Milligram provides a minimal setup of styles for a fast and clean starting point
 **Install with Bower**
 
 ```sh
-$ bower install milligram-styl
+$ bower install milligram-stylus
 ```
 
 **Install with npm**
 
 ```sh
-$ npm install milligram-styl
+$ npm install milligram-stylus
 ```
 
 
@@ -50,7 +50,7 @@ $ npm install milligram-styl
 
 ## Contributing
 
-Want to contribute? Follow these [recommendations](https://github.com/milligram/milligram-styl/blob/master/.github/contributing.md).
+Want to contribute? Follow these [recommendations](https://github.com/milligram/milligram-stylus/blob/master/.github/contributing.md).
 
 
 ## License

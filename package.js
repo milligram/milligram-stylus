@@ -1,8 +1,8 @@
 Package.describe({
-	name: 'milligram:milligram-styl',
+	name: 'milligram:milligram-stylus',
 	version: '1.1.0',
 	summary: 'A minimalist CSS framework on Stylus version.',
-	git: 'https://github.com/milligram/milligram-styl.git',
+	git: 'https://github.com/milligram/milligram-stylus.git',
 	documentation: 'readme.md'
 });
 
