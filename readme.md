@@ -1,12 +1,14 @@
-# [Milligram](http://milligram.github.io)
+<p align="center">
+	<a href="http://milligram.github.io"><img width="100%" src="https://raw.githubusercontent.com/milligram/milligram.github.io/master/img/thumbnail.jpg" alt="Milligram - A minimalist CSS framework on Stylus version"></a>
+</p>
 
-| A minimalist CSS framework.
+> A minimalist CSS framework on Stylus version.
 
-[![Build Status](https://travis-ci.org/milligram/milligram-stylus.svg?branch=master)](https://travis-ci.org/milligram/milligram-stylus)
-[![GitHub version](https://badge.fury.io/gh/milligram%2Fmilligram-stylus.svg)](https://badge.fury.io/gh/milligram%2Fmilligram-stylus)
-[![Bower version](https://badge.fury.io/bo/milligram-stylus.svg)](https://badge.fury.io/bo/milligram-stylus)
-[![npm version](https://badge.fury.io/js/milligram-stylus.svg)](http://badge.fury.io/js/milligram-stylus)
-[![Dependencies Status](https://david-dm.org/milligram/milligram-stylus.svg)](https://travis-ci.org/milligram/milligram-stylus)
+[![Build Status](https://travis-ci.org/milligram/milligram-styl.svg?branch=master)](https://travis-ci.org/milligram/milligram-styl)
+[![Dependencies Status](https://david-dm.org/milligram/milligram-styl.svg)](https://travis-ci.org/milligram/milligram-styl)
+[![npm version](https://badge.fury.io/js/milligram-styl.svg)](https://badge.fury.io/js/milligram-styl)
+[![Bower version](https://badge.fury.io/bo/milligram-styl.svg)](https://badge.fury.io/bo/milligram-styl)
+[![Gitter chat](https://img.shields.io/badge/gitter-join_the_chat-4cc61e.svg)](https://gitter.im/milligram/milligram)
 
 
 ## Why it's awesome?
@@ -19,13 +21,13 @@ Milligram provides a minimal setup of styles for a fast and clean starting point
 **Install with Bower**
 
 ```sh
-$ bower install milligram-stylus
+$ bower install milligram-styl
 ```
 
 **Install with npm**
 
 ```sh
-$ npm install milligram-stylus
+$ npm install milligram-styl
 ```
 
 
@@ -48,16 +50,9 @@ $ npm install milligram-stylus
 
 ## Contributing
 
-Help improve these docs. Open an [issue](https://github.com/milligram/milligram/issues/new) or submit a pull request.
-
-- Navigate to the main page of the repository
-- [Fork it!](https://github.com/milligram/milligram#fork-destination-box)
-- Create your feature branch: git checkout -b my-new-feature
-- Commit your changes: git commit -m 'Add some feature'
-- Push to the branch: git push origin my-new-feature
-- Submit a pull request =D
+Want to contribute? Follow these [recommendations](https://github.com/milligram/milligram-styl/blob/master/.github/contributing.md).
 
 
 ## License
 
-[MIT License](http://cjpatoilo.mit-license.org/) @ CJ Patoilo
+Designed with ♥ by [CJ Patoilo](http://cjpatoilo.com). Licensed under the [MIT License](http://cjpatoilo.mit-license.org).
