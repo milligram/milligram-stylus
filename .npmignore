@@ -1,4 +1,5 @@
 .editorconfig
+<<<<<<< HEAD
 .gitignore
 .npmignore
 .travis.yml
@@ -10,3 +11,18 @@ gruntfile.js
 package.js
 package.json
 src
+=======
+.github
+.gitignore
+.npmignore
+.travis.yml
+.versions
+bower.json
+changelog.md
+component.json
+composer.json
+package.js
+package.json
+src
+test
+>>>>>>> release/v1.2.0-rc1
