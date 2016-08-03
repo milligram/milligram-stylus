@@ -15,7 +15,7 @@ We would love for you to contribute to Milligram and help us make this even bett
 
 ## Open an Issue
 
-[Open an Issue](https://github.com/milligram/milligram-styl/issues/new) to report any problems or improvements. When necessary, use [Codepen](http://codepen.io/) to show the problem. Be sure to include some description to explain the problem.
+[Open an Issue](https://github.com/milligram/milligram-stylus/issues/new) to report any problems or improvements. When necessary, use [Codepen](http://codepen.io/) to show the problem. Be sure to include some description to explain the problem.
 
 
 ## Submit a Pull Request
@@ -24,7 +24,7 @@ To submit a new feature, make sure that changes are done to the source code. [Fo
 
 Try to solve a problem for each pull request, this increases the chances of acceptance. When in doubt, open a [new issue](#open-an-issue) so we can answer you. Look existing issues for ideas or to see if a similar issue has already been submitted.
 
-1. Fork the Github repo: `git clone https://github.com/milligram/milligram-styl.git`
+1. Fork the Github repo: `git clone https://github.com/milligram/milligram-stylus.git`
 1. Create a new branch: `git checkout -b issuenumber-feature-name`
 1. Commit your changes: `git commit -m 'issuenumber-feature-name'`
 1. Push to the branch: `git push origin my-feature-name`
@@ -87,4 +87,4 @@ Help us keep Milligram open and inclusive. Please read and follow our thoughts o
 
 ## License
 
-By contributing your code, you agree to license your contribution under the [MIT license](https://github.com/milligram/milligram-styl#license).
+By contributing your code, you agree to license your contribution under the [MIT license](https://github.com/milligram/milligram-stylus#license).

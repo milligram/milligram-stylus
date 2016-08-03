@@ -1,14 +1,9 @@
 {
-<<<<<<< HEAD
 	"name": "milligram-stylus",
-	"version": "1.0.0",
-=======
-	"name": "milligram-styl",
 	"version": "1.1.0",
->>>>>>> release/v1.2.0-rc1
 	"description": "A minimalist CSS framework on Stylus version.",
 	"homepage": "http://milligram.github.io",
-	"repository": "milligram/milligram-styl",
+	"repository": "milligram/milligram-stylus",
 	"license": "MIT",
 	"author": "CJ Patoilo <cjpatoilo@gmail.com>",
 	"main": "dist/milligram.styl",
@@ -16,10 +11,7 @@
 		"bootstrap",
 		"css",
 		"css3",
-<<<<<<< HEAD
-=======
 		"flexbox",
->>>>>>> release/v1.2.0-rc1
 		"front-end",
 		"framework",
 		"html",
@@ -41,16 +33,6 @@
 		".gitignore",
 		".npmignore",
 		".travis.yml",
-<<<<<<< HEAD
-		"bower.json",
-		"component.json",
-		"composer.json",
-		"contributing.md",
-		"gruntfile.js",
-		"package.js",
-		"package.json",
-		"src"
-=======
 		".versions",
 		"bower.json",
 		"changelog.md",
@@ -60,7 +42,6 @@
 		"package.json",
 		"src",
 		"test"
->>>>>>> release/v1.2.0-rc1
 	],
 	"dependencies": {
 		"normalize.css": "latest"
