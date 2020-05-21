@@ -45,16 +45,15 @@
     "stylus": "^0.54.7"
   },
   "scripts": {
-    "start": "run-p build watch",
-    "build": "run-s clean copy banner stylus autoprefixer",
-    "clean": "rimraf dist",
-    "stylus": "rm -rf test && mkdir test && stylus src/milligram.styl --out test/milligram.css && stylus --compress src/milligram.styl --out test/milligram.min.css",
     "autoprefixer": "postcss -u autoprefixer --no-map.inline --autoprefixer.browsers \"last 1 versions\" -r test/*.css",
-    "copy": "copycopy src/**/* dist",
     "banner": "banner-cli dist/*.styl",
-    "watch": "onchange src -- run-p build",
-    "lint": "stylint --config .styluslintrc src/*styl",
-    "test": "run-s build lint"
+    "build": "rimraf dist && run-s copy banner stylus autoprefixer",
+    "copy": "copycopy src/**/* dist",
+    "lint": "prettier-standard --format && stylint --config .styluslintrc src/*.styl",
+    "stylus": "rm -rf test && mkdir test && stylus src/milligram.styl --out test/milligram.css && stylus --compress src/milligram.styl --out test/milligram.min.css",
+    "start": "run-p build watch",
+    "test": "run-s build",
+    "watch": "onchange src -- run-p build"
   },
   "engines": {
     "node": "^12.16.2",
