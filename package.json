@@ -1,6 +1,6 @@
 {
   "name": "milligram-stylus",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "A minimalist CSS framework on Stylus version.",
   "homepage": "https://milligram.io",
   "repository": "milligram/milligram-stylus",
@@ -32,10 +32,10 @@
   },
   "devDependencies": {
     "autoprefixer": "^9.8.0",
-    "banner-cli": "^0.14.1",
+    "banner-cli": "^0.14.3",
     "copycopy": "0.0.2",
     "husky": "^4.2.5",
-    "lint-staged": "^10.2.7",
+    "lint-staged": "^10.2.11",
     "npm-run-all": "^4.1.5",
     "onchange": "^7.0.2",
     "postcss-cli": "^7.1.1",
@@ -46,7 +46,7 @@
   },
   "scripts": {
     "autoprefixer": "postcss -u autoprefixer --no-map.inline --autoprefixer.browsers \"last 1 versions\" -r test/*.css",
-    "banner": "banner-cli dist/*.styl",
+    "banner": "banner-cli dist/milligram.styl",
     "build": "rimraf dist && run-s copy banner stylus autoprefixer",
     "copy": "copycopy src/**/* dist",
     "lint": "prettier-standard --format && stylint --config .styluslintrc src/*.styl",
@@ -55,10 +55,6 @@
     "start": "run-p build watch",
     "test": "run-s build",
     "watch": "onchange src -- run-p build"
-  },
-  "engines": {
-    "node": "^12.17.0",
-    "npm": "^6.14.5"
   },
   "prettier": {
     "jsxSingleQuote": false,
